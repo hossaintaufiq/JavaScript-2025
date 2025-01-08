@@ -36,4 +36,12 @@ let student2 = {
 
 for( let key in student2 ){
     console.log(key, "= ", student2[key])
+    
 }
+
+// String functions build in 
+
+fullName= "Hossain Ahmmed"
+
+// fullName.slice(0,10)
+console.log(fullName.slice(0,14))
