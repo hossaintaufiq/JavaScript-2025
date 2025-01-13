@@ -29,3 +29,10 @@
 
 // // arrowmalti(4,5)
 // console.log(arrowmalti(3,4))
+
+
+// methods
+// forEach works on array 
+// arr.map 
+// arr.filter
+// arr.reduce
